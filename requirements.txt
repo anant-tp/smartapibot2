@@ -1,9 +1,6 @@
 logzero
 pyotp
 SmartApi
-SmartApi
-logzero
-pyotp
 smartapi-python
 websocket-client
 pytz
