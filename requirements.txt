@@ -5,3 +5,4 @@ smartapi-python
 websocket-client
 pytz
 flask
+PyCrypto
