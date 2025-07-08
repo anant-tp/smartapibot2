@@ -1,0 +1,11 @@
+logzero
+pyotp
+SmartApi
+SmartApi
+logzero
+pyotp
+smartapi-python
+websocket-client
+pytz
+flask
+smartapi==1.1.3
