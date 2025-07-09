@@ -1,8 +1,5 @@
-logzero
-pyotp
 SmartApi
-smartapi-python
-websocket-client
+pyotp
 pytz
+logzero
 flask
-pycryptodome
